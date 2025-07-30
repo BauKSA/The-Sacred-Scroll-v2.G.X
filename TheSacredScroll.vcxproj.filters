@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\Defs">
+      <UniqueIdentifier>{db91d587-0ef1-4637-ad0f-8196207c36c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps">
+      <UniqueIdentifier>{e6619f34-c211-454b-88cd-98975ca1a8b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\c3">
+      <UniqueIdentifier>{bc5b101d-19f0-4719-af42-02f2381fa1ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\c2">
+      <UniqueIdentifier>{3d1cc604-2c0e-4ff7-ac43-00f8a14be139}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\a1">
+      <UniqueIdentifier>{87d6864b-ebaa-438f-bd5c-b2fb9df50a8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\a2">
+      <UniqueIdentifier>{bdf2fe6b-063e-4433-830e-5ff6d0df15e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\a3">
+      <UniqueIdentifier>{2f336f5f-eda9-455f-83e2-eaddc7f078be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\a4">
+      <UniqueIdentifier>{97f27e73-fa02-4506-a9de-ee532eb6692c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\a5">
+      <UniqueIdentifier>{2fd5e4f6-bf6b-451f-a7a6-999104270b17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\b1">
+      <UniqueIdentifier>{76d89c45-a685-4df3-9603-b89ca7ef296e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\b2">
+      <UniqueIdentifier>{de2f933e-2c6c-4816-a33a-db41bb2a06e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\b3">
+      <UniqueIdentifier>{8a1435a7-5dd9-4da5-8779-87d19628d3c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\b4">
+      <UniqueIdentifier>{f0123978-021f-4487-ac9f-8353466033db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\b5">
+      <UniqueIdentifier>{95594d12-43cf-48ab-8e22-7eb30b4ea8ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\c1">
+      <UniqueIdentifier>{a8fc617f-e0c5-49e4-8a31-15635c9c01ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\c4">
+      <UniqueIdentifier>{290d4e5e-a51f-4cfd-aec1-3912e3c8a090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\c5">
+      <UniqueIdentifier>{30e5bcac-61ff-4511-b649-15bc56c80d72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\d1">
+      <UniqueIdentifier>{12926fb2-389d-4226-a622-d24efa82c53f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\d2">
+      <UniqueIdentifier>{26a14d19-bedd-4699-b416-8113689d304e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\d3">
+      <UniqueIdentifier>{eeb53a52-59b4-4530-8d96-5aece5dd2e12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\d4">
+      <UniqueIdentifier>{d46920c4-f67a-4b98-ad6e-18db7562cfae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\d5">
+      <UniqueIdentifier>{4b0c5b36-6cba-42f9-9634-6ba55a518040}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\e1">
+      <UniqueIdentifier>{b0fe6c98-8b82-4ef8-bce8-025a67bbd76b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\e2">
+      <UniqueIdentifier>{86a742ce-3cb8-44fd-989b-75d1d4fe48fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\e3">
+      <UniqueIdentifier>{45219ac3-e06d-43b2-86f2-3fa25af7abb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\e4">
+      <UniqueIdentifier>{bad11ca9-741d-4854-bddd-9e5ef6ddd04f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Maps\e5">
+      <UniqueIdentifier>{b6febaac-d3e8-4343-93a7-7c86b28699ea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Actor.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Interface.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Globals.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Environment.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Items.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Doors.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="c3.h">
+      <Filter>Archivos de origen\Maps\c3</Filter>
+    </ClInclude>
+    <ClInclude Include="index.h">
+      <Filter>Archivos de origen\Maps</Filter>
+    </ClInclude>
+    <ClInclude Include="c2.h">
+      <Filter>Archivos de origen\Maps\c2</Filter>
+    </ClInclude>
+    <ClInclude Include="init_interface.h">
+      <Filter>Archivos de origen</Filter>
+    </ClInclude>
+    <ClInclude Include="Password.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="a1.h">
+      <Filter>Archivos de origen\Maps\a1</Filter>
+    </ClInclude>
+    <ClInclude Include="a2.h">
+      <Filter>Archivos de origen\Maps\a2</Filter>
+    </ClInclude>
+    <ClInclude Include="a3.h">
+      <Filter>Archivos de origen\Maps\a3</Filter>
+    </ClInclude>
+    <ClInclude Include="a4.h">
+      <Filter>Archivos de origen\Maps\a4</Filter>
+    </ClInclude>
+    <ClInclude Include="a5.h">
+      <Filter>Archivos de origen\Maps\a5</Filter>
+    </ClInclude>
+    <ClInclude Include="b1.h">
+      <Filter>Archivos de origen\Maps\b1</Filter>
+    </ClInclude>
+    <ClInclude Include="b3.h">
+      <Filter>Archivos de origen\Maps\b3</Filter>
+    </ClInclude>
+    <ClInclude Include="b4.h">
+      <Filter>Archivos de origen\Maps\b4</Filter>
+    </ClInclude>
+    <ClInclude Include="b5.h">
+      <Filter>Archivos de origen\Maps\b5</Filter>
+    </ClInclude>
+    <ClInclude Include="c1.h">
+      <Filter>Archivos de origen\Maps\c1</Filter>
+    </ClInclude>
+    <ClInclude Include="c4.h">
+      <Filter>Archivos de origen\Maps\c4</Filter>
+    </ClInclude>
+    <ClInclude Include="c5.h">
+      <Filter>Archivos de origen\Maps\c5</Filter>
+    </ClInclude>
+    <ClInclude Include="d1.h">
+      <Filter>Archivos de origen\Maps\d1</Filter>
+    </ClInclude>
+    <ClInclude Include="d2.h">
+      <Filter>Archivos de origen\Maps\d2</Filter>
+    </ClInclude>
+    <ClInclude Include="d3.h">
+      <Filter>Archivos de origen\Maps\d3</Filter>
+    </ClInclude>
+    <ClInclude Include="d4.h">
+      <Filter>Archivos de origen\Maps\d4</Filter>
+    </ClInclude>
+    <ClInclude Include="d5.h">
+      <Filter>Archivos de origen\Maps\d5</Filter>
+    </ClInclude>
+    <ClInclude Include="e2.h">
+      <Filter>Archivos de origen\Maps\e2</Filter>
+    </ClInclude>
+    <ClInclude Include="e3.h">
+      <Filter>Archivos de origen\Maps\e3</Filter>
+    </ClInclude>
+    <ClInclude Include="e4.h">
+      <Filter>Archivos de origen\Maps\e4</Filter>
+    </ClInclude>
+    <ClInclude Include="e1.h">
+      <Filter>Archivos de origen\Maps\e1</Filter>
+    </ClInclude>
+    <ClInclude Include="e5.h">
+      <Filter>Archivos de origen\Maps\e5</Filter>
+    </ClInclude>
+    <ClInclude Include="A2MiniGame.h">
+      <Filter>Archivos de origen\Maps\a2</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniGameActor.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="E5Minigame.h">
+      <Filter>Archivos de origen\Maps\e5</Filter>
+    </ClInclude>
+    <ClInclude Include="A1MiniGame.h">
+      <Filter>Archivos de origen\Maps\a1</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="b2.h">
+      <Filter>Archivos de origen\Maps\b2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="functions.cpp">
+      <Filter>Archivos de encabezado\Defs</Filter>
+    </ClCompile>
+    <ClCompile Include="actor.cpp">
+      <Filter>Archivos de encabezado\Defs</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>Archivos de encabezado\Defs</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="interface.cpp">
+      <Filter>Archivos de encabezado\Defs</Filter>
+    </ClCompile>
+    <ClCompile Include="stage.cpp">
+      <Filter>Archivos de encabezado\Defs</Filter>
+    </ClCompile>
+    <ClCompile Include="environment.cpp">
+      <Filter>Archivos de encabezado\Defs</Filter>
+    </ClCompile>
+    <ClCompile Include="event.cpp">
+      <Filter>Archivos de encabezado\Defs</Filter>
+    </ClCompile>
+    <ClCompile Include="c3.cpp">
+      <Filter>Archivos de origen\Maps\c3</Filter>
+    </ClCompile>
+    <ClCompile Include="c2.cpp">
+      <Filter>Archivos de origen\Maps\c2</Filter>
+    </ClCompile>
+    <ClCompile Include="password.cpp">
+      <Filter>Archivos de encabezado\Defs</Filter>
+    </ClCompile>
+    <ClCompile Include="a1.cpp">
+      <Filter>Archivos de origen\Maps\a1</Filter>
+    </ClCompile>
+    <ClCompile Include="a2.cpp">
+      <Filter>Archivos de origen\Maps\a2</Filter>
+    </ClCompile>
+    <ClCompile Include="a3.cpp">
+      <Filter>Archivos de origen\Maps\a3</Filter>
+    </ClCompile>
+    <ClCompile Include="a4.cpp">
+      <Filter>Archivos de origen\Maps\a4</Filter>
+    </ClCompile>
+    <ClCompile Include="a5.cpp">
+      <Filter>Archivos de origen\Maps\a5</Filter>
+    </ClCompile>
+    <ClCompile Include="b1.cpp">
+      <Filter>Archivos de origen\Maps\b1</Filter>
+    </ClCompile>
+    <ClCompile Include="b2.cpp">
+      <Filter>Archivos de origen\Maps\b2</Filter>
+    </ClCompile>
+    <ClCompile Include="b3.cpp">
+      <Filter>Archivos de origen\Maps\b3</Filter>
+    </ClCompile>
+    <ClCompile Include="b4.cpp">
+      <Filter>Archivos de origen\Maps\b4</Filter>
+    </ClCompile>
+    <ClCompile Include="b5.cpp">
+      <Filter>Archivos de origen\Maps\b5</Filter>
+    </ClCompile>
+    <ClCompile Include="c1.cpp">
+      <Filter>Archivos de origen\Maps\c1</Filter>
+    </ClCompile>
+    <ClCompile Include="c4.cpp">
+      <Filter>Archivos de origen\Maps\c4</Filter>
+    </ClCompile>
+    <ClCompile Include="c5.cpp">
+      <Filter>Archivos de origen\Maps\c5</Filter>
+    </ClCompile>
+    <ClCompile Include="d1.cpp">
+      <Filter>Archivos de origen\Maps\d1</Filter>
+    </ClCompile>
+    <ClCompile Include="d2.cpp">
+      <Filter>Archivos de origen\Maps\d2</Filter>
+    </ClCompile>
+    <ClCompile Include="d3.cpp">
+      <Filter>Archivos de origen\Maps\d3</Filter>
+    </ClCompile>
+    <ClCompile Include="d4.cpp">
+      <Filter>Archivos de origen\Maps\d4</Filter>
+    </ClCompile>
+    <ClCompile Include="d5.cpp">
+      <Filter>Archivos de origen\Maps\d5</Filter>
+    </ClCompile>
+    <ClCompile Include="e1.cpp">
+      <Filter>Archivos de origen\Maps\e1</Filter>
+    </ClCompile>
+    <ClCompile Include="e2.cpp">
+      <Filter>Archivos de origen\Maps\e2</Filter>
+    </ClCompile>
+    <ClCompile Include="e3.cpp">
+      <Filter>Archivos de origen\Maps\e3</Filter>
+    </ClCompile>
+    <ClCompile Include="e4.cpp">
+      <Filter>Archivos de origen\Maps\e4</Filter>
+    </ClCompile>
+    <ClCompile Include="e5.cpp">
+      <Filter>Archivos de origen\Maps\e5</Filter>
+    </ClCompile>
+    <ClCompile Include="A2MiniGame.cpp">
+      <Filter>Archivos de origen\Maps\a2</Filter>
+    </ClCompile>
+    <ClCompile Include="miniGameActor.cpp">
+      <Filter>Archivos de encabezado\Defs</Filter>
+    </ClCompile>
+    <ClCompile Include="E5MiniGame.cpp">
+      <Filter>Archivos de origen\Maps\e5</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ASCII codes.txt">
+      <Filter>Archivos de recursos</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>Archivos de recursos</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

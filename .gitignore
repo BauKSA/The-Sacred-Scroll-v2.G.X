@@ -1,0 +1,57 @@
+# === Visual Studio ===
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch/
+*.log
+*.tlog/
+*.lastbuildstate
+*.obj
+*.pch
+*.idb
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.exp
+*.iobj
+*.ipdb
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.clw
+
+# Auto-generated files
+Debug/
+Release/
+x64/
+x86/
+ARM/
+Generated Files/
+
+# CMake (por si lo usás con Visual Studio)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# === Project files que NO se deben ignorar ===
+!*.sln
+!*.vcxproj
+!*.vcxproj.filters
+!*.h
+!*.hpp
+!*.c
+!*.cpp
+!*.inl
+!*.rc
+!*.ico
+!*.bmp
+!*.png
+!*.wav
+!*.txt
