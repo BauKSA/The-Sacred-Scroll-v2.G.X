@@ -31,7 +31,7 @@ static bool trigger_c3(bool complete, Player* player = nullptr) {
 }
 
 void event_c3_func() {
-	print_text("        Menu                             Continuar (L)                             W -> Arriba          S -> Abajo           A -> Derecha         D -> Izquierda       L -> Accion           ");
+	print_text("        Menu                             Continuar (L)                             W -> Arriba          S -> Abajo           A -> Izquierda        D -> Derecha        L -> Accion           ");
 	while (_getch() != ACTION);
 
 	clear_text();

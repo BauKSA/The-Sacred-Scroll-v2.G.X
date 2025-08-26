@@ -123,7 +123,7 @@ void Interface::draw_title() {
 	gotoxy(CREDITS, 1);
 	printf("BAUTISTA MANOLIZI");
 	gotoxy(CREDITS, 3);
-	printf("%c jul 2025 v2.G.1", 184);
+	printf("%c jul 2025 v2.G.2", 184);
 }
 
 void Interface::draw_game_info() {

@@ -7,6 +7,7 @@
 #include<conio.h>
 #include<vector>
 #include<mutex>
+#include<memory>
 
 #include "MiniGameActor.h"
 #include "Functions.h"
@@ -42,11 +43,11 @@ public:
 
 class A2MiniGame {
 private:
-	std::vector<A2Bullet*> bullets;
-	std::vector<Enemy*> enemies;
+	std::vector<std::unique_ptr<A2Bullet>> bullets;
+	std::vector<std::unique_ptr<Enemy>> enemies;
 	MiniGamePlayer* player;
 	int points;
-	bool running; // Bandera para controlar la ejecuci6n de los hilos
+	bool running;
 	bool checking;
 public:
 	A2MiniGame():
@@ -55,10 +56,9 @@ public:
 	void print_points() const;
 	void redraw();
 	void check_positions();
-	void move_bullets();
-	void move_enemies();
-	void add_bullet(A2Bullet* bullet);
-	void add_enemy(Enemy* enemy);
+	void move_objects();
+	void add_bullet(std::unique_ptr<A2Bullet> bullet);
+	void add_enemy(std::unique_ptr<Enemy> enemy);
 	void add_player(MiniGamePlayer* _player);
 	void stop_threads() { running = false; }
 	int get_points() const { return points; }
